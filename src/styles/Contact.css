@@ -1,0 +1,26 @@
+label {
+  color: white;
+  padding: 5%;
+  font-size: 2em;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+button {
+  position: absolute;
+  left: 23%;
+}
+
+input {
+  width: 250px;
+  margin: 0.5%;
+  height: 100%;
+}
+
+textarea {
+  height: 50px;
+  width: 215px;
+}
+
+.containerStyle {
+  padding-top: 50px;
+}

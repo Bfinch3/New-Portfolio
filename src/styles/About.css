@@ -1,0 +1,17 @@
+html {
+  margin: 0;
+  padding-bottom: 105px;
+}
+
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+html {
+  background: linear-gradient(to bottom, #070b41, #0a4da4);
+}

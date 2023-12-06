@@ -1,0 +1,36 @@
+
+.header {
+  background: url("./src/assets/wires.png");
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 25px;
+}
+
+.header h1,
+.header a {
+  color: white;
+  font-size: 2.4rem;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: font-size 0.3s, color 0.3s;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header a:hover {
+  font-size: 2.6rem;
+  color: rgb(121, 156, 245);
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: 100%;
+  }
+
+  .header h1,
+  .header a {
+    font-size: 1.3rem;
+  }
+}
+
