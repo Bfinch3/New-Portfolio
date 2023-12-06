@@ -8,7 +8,7 @@ const Footer = () => {
       <div>
         <a href="https://github.com/Bfinch3?tab=repositories" rel="git repo">
           <img
-            src="./src/assets/github.png"
+            src="./assets/github.png"
             alt="GitHub"
             style={{
               width: "100px",
